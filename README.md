@@ -1,1 +1,1 @@
-Notes for MIT Intro Course
+Problem Sets for MIT Intro Course
